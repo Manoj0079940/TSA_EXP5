@@ -57,8 +57,5 @@ plt.show()
 ### OUTPUT:
 <img width="847" height="580" alt="image" src="https://github.com/user-attachments/assets/dfe774e7-c36d-4184-a31a-546a390f58af" />
 
-
-
-
 ### RESULT:
 Thus we have created the python code for the time series analysis and decomposition.
